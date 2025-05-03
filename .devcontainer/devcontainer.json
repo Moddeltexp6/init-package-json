@@ -1,0 +1,4 @@
+repo: path:/^heads\/backport\/ci-fixes-1\.31-strict\// Ubuntu{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
